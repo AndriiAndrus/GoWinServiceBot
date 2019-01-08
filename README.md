@@ -1,1 +1,2 @@
 "# GoWinServiceBot" 
+USE ONLY FOR STUDY REASONS!
